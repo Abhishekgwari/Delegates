@@ -12,7 +12,7 @@ namespace Delegates
         
       
         
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Func<int,float,double ,double> obj1 = (x,y,z)=>
             {
